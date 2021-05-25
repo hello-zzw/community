@@ -17,4 +17,6 @@ ctrl+p:提示方法参数类型
 shift+f6:重命名
 
 crtl+alt+v:快速生成返回对象变量
-# community
+
+---
+[mvn依赖库](https://mvnrepository.com/)
